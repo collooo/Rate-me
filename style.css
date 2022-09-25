@@ -72,7 +72,7 @@ body {
   width: 95%;
   height: 90%;
   background: white;
-  box-shadow: 0 20px 40px 0 rgb(233, 40, 217), inset 0px -10px 17px 1px MediumSeaGreen;
+  box-shadow: 0 20px 40px 0 rgb(233, 40, 217), inset 0px -10px 17px 1px rgb(207, 37, 142);
   overflow: hidden;
   border-radius: 25px;
   z-index: 998;
