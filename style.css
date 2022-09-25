@@ -126,8 +126,8 @@ body {
   width: 40px;
   height: 40px;
   border-radius: 100px;
-  background: MediumSpringGreen;
-  box-shadow: 0 5px 15px 0 SeaGreen, inset 0px -6px 12px 0px SeaGreen;
+  background: rgb(250, 252, 251);
+  box-shadow: 0 5px 15px 0 rgb(251, 252, 251), inset 0px -6px 12px 0px rgb(249, 250, 249);
   transition: all 0.4s ease-in-out;
 }
 
