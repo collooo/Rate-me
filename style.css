@@ -72,7 +72,7 @@ body {
   width: 95%;
   height: 90%;
   background: white;
-  box-shadow: 0 20px 40px 0 rgb(233, 40, 217), inset 0px -10px 17px 1px rgb(207, 37, 142);
+  box-shadow: 0 20px 40px 0 rgb(255, 253, 255), inset 0px -10px 17px 1px rgb(252, 250, 251);
   overflow: hidden;
   border-radius: 25px;
   z-index: 998;
@@ -258,7 +258,7 @@ body {
   align-items: center;
   justify-content: center;
   width: auto;
-  height: 10vh;
+  height: 5vh;
   background: #eee;
   padding: 15px 10px;
   border-radius: 10px;
