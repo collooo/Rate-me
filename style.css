@@ -22,7 +22,7 @@ a:hover::after {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: MediumSeaGreen;
+  background: #fff;
 }
 
 ::-webkit-scrollbar-thumb:hover {
