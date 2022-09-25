@@ -72,7 +72,7 @@ body {
   width: 95%;
   height: 90%;
   background: white;
-  box-shadow: 0 20px 40px 0 SeaGreen, inset 0px -10px 17px 1px MediumSeaGreen;
+  box-shadow: 0 20px 40px 0 rgb(233, 40, 217), inset 0px -10px 17px 1px MediumSeaGreen;
   overflow: hidden;
   border-radius: 25px;
   z-index: 998;
@@ -254,7 +254,7 @@ body {
   top: 20px;
   display: flex;
   align-self: flex-start;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   width: auto;
