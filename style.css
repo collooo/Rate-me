@@ -193,7 +193,8 @@ body {
 }
 
 .profile {
-  
+  display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   width: auto;
@@ -1173,9 +1174,7 @@ body {
   .clay-category p {
     font-size: 16pt;
   }
-  .profile {
-    display: none;
-  }
+  
   .profile-small {
     display: flex;
     flex-direction: row;
